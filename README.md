@@ -46,11 +46,13 @@
 
 ### GitHub Stats:
 
+<div>
 <img align="left" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true" />
+</div>
 
 
 <br/>
 
-## Credits to: codeSTACKr for this amazing Profile Template!
+Credits to: codeSTACKr for this amazing Profile Template!
 
 [website]: https://rodrigo.onrender.com/
