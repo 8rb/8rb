@@ -40,6 +40,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
 <br/>
 <br/>
 
@@ -47,20 +48,21 @@
 ### GitHub Stats:
 
 <div markdown="1">
-<img align="left" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true" />
-</div>
+<img align="left" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true" />  
+</div>  
+
 
 <br/>
 <br/>
 
 ### Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&layout=compact)](https://github.com/8rb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&layout=compact)](https://github.com/8rb)  
 
 
 
 <br/>
 
-Credits to: codeSTACKr, anuraghazra and novatorem for this amazing Profile Template!
+Credits to: codeSTACKr, anuraghazra and novatorem for this amazing Profile Template!  
 
 [website]: https://rodrigo.onrender.com/
