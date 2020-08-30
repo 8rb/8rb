@@ -1,4 +1,4 @@
-### Rodrigo Ramirez
+## Rodrigo Ramirez
 
 ## Front-End Developer, Musician and Science Enthusiast
 
@@ -49,6 +49,8 @@
 <img align="left" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true" />
 
 
-#Credits to: codeSTACKr for this amazing Profile Template!
+<br/>
+
+##Credits to: codeSTACKr for this amazing Profile Template!
 
 [website]: https://rodrigo.onrender.com/
