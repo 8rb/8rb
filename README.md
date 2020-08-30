@@ -57,6 +57,7 @@
 
 ### Top Languages:
 
+<div markdown="1">
 <img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&layout=compact" />  
 </div>  
 
