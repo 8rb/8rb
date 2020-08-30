@@ -1,4 +1,4 @@
-## Rodrigo Ramirez
+# Rodrigo Ramirez
 
 ## Front-End Developer, Musician and Science Enthusiast
 
@@ -51,6 +51,6 @@
 
 <br/>
 
-##Credits to: codeSTACKr for this amazing Profile Template!
+## Credits to: codeSTACKr for this amazing Profile Template!
 
 [website]: https://rodrigo.onrender.com/
