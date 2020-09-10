@@ -10,7 +10,7 @@
 
 ### My Portfolio:
 
-<a href="https://rodrigo.onrender.com/" target="_blank">Portfolio</a>
+<a href="https://rodrigo.onrender.com/" target="_blank">Portfolio 💼</a>
 
 <br/>
 
