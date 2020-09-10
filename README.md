@@ -14,12 +14,6 @@
 
 <br/>
 
-### Currently Listening to:
-
-[![Spotify](https://spotifyplaying-pphmmwf12.vercel.app/api/spotify)](https://open.spotify.com/user/rodrigo8rb)
-
-<br/>
-
 ### Tech Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -60,7 +54,11 @@
 <img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&layout=compact&hide_border=true" />  
 </div>  
 
+### My Spotify right now:
 
+[![Spotify](https://spotifyplaying-pphmmwf12.vercel.app/api/spotify)](https://open.spotify.com/user/rodrigo8rb)
+
+<br/>
 
 <br/>
 
