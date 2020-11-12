@@ -51,7 +51,7 @@
 ### Top Languages:
 
 <div markdown="1">
-<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=Interlab-Backend-net-core,FinanceeAppServerless,interlab-webapps,Pandas-DataFrame&langs_count=8&layout=compact" />  
+<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=FinanceeAppServerless,interlab-webapps,Pandas-DataFrame&langs_count=8&layout=compact" />  
 </div>  
 
 ### My Spotify right now:
