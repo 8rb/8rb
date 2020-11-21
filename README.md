@@ -39,7 +39,7 @@
 ### GitHub Stats:
 
 <div markdown="1">
-<img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=false&theme=nord" />  
+<img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true&theme=nord" />  
 </div>  
 
 
@@ -48,7 +48,7 @@
 ### Top Languages:
 
 <div markdown="1">
-<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=FinanceeAppServerless,interlab-webapps,Pandas-DataFrame,ReviFast&langs_count=8&layout=compact&theme=nord&title_color=8ca0be&text_color=#d4d8e2" />  
+<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=FinanceeAppServerless,interlab-webapps,Pandas-DataFrame,ReviFast&langs_count=8&layout=compact&theme=nord&hide_border=true&title_color=8ca0be&text_color=#d4d8e2" />  
 </div>  
 
 ### My Spotify right now:
