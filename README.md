@@ -28,7 +28,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
@@ -48,7 +47,7 @@
 ### Top Languages:
 
 <div markdown="1">
-<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=FinanceeAppServerless,interlab-webapps,Pandas-DataFrame,ReviFast&langs_count=8&layout=compact&hide_border=true&bg_color=0E1118&title_color=ffffff&text_color=ffffff" />  
+<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=FinanceeApp,Interlab-Webapps,Pandas-DataFrame,ReviFast&langs_count=8&layout=compact&hide_border=true&bg_color=0E1118&title_color=ffffff&text_color=ffffff" />  
 </div>  
 
 ### My Spotify right now:
