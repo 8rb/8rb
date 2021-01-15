@@ -4,13 +4,19 @@
 
 - 💻 I’m a Software Engineering Student
 - ✏️ I like to develop Web Applications
-- 🎹 I love music and I play 8+ instruments 😮
+- 🎹 I love music and I play 8+ instruments
 
 <br/>
 
 ### My Portfolio:
 
 <a href="https://rodrigo.onrender.com/" target="_blank">Portfolio 💼</a>
+
+<br/>
+
+### My Latest App:
+
+<a href="https://pokeapp.onrender.com/" target="_blank">PokeApp</a>
 
 <br/>
 
@@ -38,7 +44,7 @@
 ### GitHub Stats:
 
 <div markdown="1">
-<img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=48E5C2&text_color=e8fcf5&icon_color=48E5C2" />  
+<img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cffd6&text_color=dbdbdb&icon_color=9cffd6" />  
 </div>  
 
 
@@ -47,7 +53,7 @@
 ### Top Languages:
 
 <div markdown="1">
-<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=FinanceeApp,Interlab-Webapps,Pandas-DataFrame,ReviFast,InterLab-Server-Side-Software&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />  
+<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=FinanceeApp,Interlab-Webapps,Pandas-DataFrame,ReviFast,InterLab-Server-Side-Software&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=dbdbdb&text_color=dbdbdb" />  
 </div>  
 
 ### My Spotify right now:
