@@ -18,6 +18,8 @@
 
 <a href="https://pokeapp.onrender.com/" target="_blank">PokeApp</a>
 
+[![PokeApp](https://pokeapp.onrender.com/)](https://pokeapp.onrender.com/)
+
 <br/>
 
 ### Tech Stack:
@@ -45,7 +47,7 @@
 
 <div markdown="1">
 <img align="center" alt="8rb's Github Stats" src="https://github-readme-stats.8rb.vercel.app/api?username=8rb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cffd6&text_color=dbdbdb&icon_color=9cffd6" />  
-</div>  
+</div>
 
 
 <br/>
@@ -53,7 +55,7 @@
 ### Top Languages:
 
 <div markdown="1">
-<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=FinanceeApp,Interlab-Webapps,Pandas-DataFrame,ReviFast,InterLab-Server-Side-Software&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=dbdbdb&text_color=dbdbdb" />  
+<img align="center" alt="8rb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=Interlab-Webapps,InterLab-Server-Side-Software&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=dbdbdb&text_color=dbdbdb" />
 </div>  
 
 ### My Spotify right now:
@@ -64,6 +66,4 @@
 
 <br/>
 
-Credits to: codeSTACKr, anuraghazra and novatorem for this amazing Profile Template!  
-
-[website]: https://rodrigo.onrender.com/
+Credits to: codeSTACKr, anuraghazra and novatorem for this amazing Profile Template!
