@@ -18,8 +18,6 @@
 
 <a href="https://pokeapp.onrender.com/" target="_blank">PokeApp</a>
 
-[![PokeApp](https://pokeapp.onrender.com/)](https://pokeapp.onrender.com/)
-
 <br/>
 
 ### Tech Stack:
