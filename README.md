@@ -11,12 +11,6 @@
 
 <a href="https://rodrigo.onrender.com/" target="_blank"><img style="display:inline-block" alt="Portfolio" height="40px" src="https://raw.githubusercontent.com/8rb/8rb/master/assets/Portfolio.png?raw=true" /></a>
 
-<div align="center">
-	<iframe height="410px" width="80%" src="https://rodrigo.onrender.com/"  title="Portfolio">
-</div>
-
-<br/>
-
 <a href="https://pokeapp.onrender.com/search" target="_blank"><img style="display:inline-block" alt="PokeApp" height="40px" src="https://raw.githubusercontent.com/8rb/8rb/master/assets/PokeApp.png?raw=true" /></a>
 
 
