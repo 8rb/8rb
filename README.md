@@ -45,7 +45,7 @@
 ## Top Languages:
 
 <div  align="center">
-<img  align="center"  alt="8rb's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=InterLab-Server-Side-Software&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=fafafa&text_color=fafafa" />
+<img  align="center"  alt="8rb's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=8rb&exclude_repo=InterLab-Server-Side-Software,Pandas-DataFrame&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=fafafa&text_color=fafafa" />
 </div>
 
 <br/>
